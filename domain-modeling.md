@@ -13,10 +13,10 @@ Have you heard the phrase,
 
 > Measure 3 times, cut once?
 
-When we're building a large application, it is important to plan the structure of our application before we writing code. Once the app is built, it can be difficult and time consuming to go back and restructure the app. Many of you felt this frustration when making changes to your projects. When we add user data and databases to our application, changing the structure of our app can become nearly impossible.
+When we're building a large application, it is important to plan the structure of our application before writing code. Once the app is built, it can be difficult and time consuming to go back and restructure the app. Many of you felt this frustration when making changes to your projects. When we add user data and databases to our application, changing the structure of our app can become nearly impossible.
 
 
-Similarly, if we have a really large application, it can be difficult to keep track of our application model and what changes will be required to add new features or to save new data. So not only do we need to measure 3 times before starting to build our app, we also want some way of keeping track of what those measurements as we're building.
+Similarly, if we have a really large application, it can be difficult to keep track of our application model and what changes will be required to add new features or to save new data. So not only do we need to measure 3 times before starting to build our app, we need a way to keep track of those measurements as we're building.
 
 This is where Domain Modeling and Entity Relationship Diagrams come in.
 
