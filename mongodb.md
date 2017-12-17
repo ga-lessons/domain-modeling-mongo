@@ -1,6 +1,6 @@
 # MongoDB
 
-![Mongo-logo](http://www.screen-i.com/blog/wp-content/uploads/2015/07/mongodb-standard-logo-565.png)
+![Mongo-logo](https://www.screen-i.com/blog/wp-content/uploads/2015/07/mongodb-standard-logo-565.png)
 
 ## Learning Objectives
 
@@ -10,9 +10,9 @@
 - CRUD documents using Mongo CLI
 - Build a simple node CLI to query MongoDB
 
-## Framing (5 minutes / 0:5)
+## Framing (10 minutes / 0:10)
 
-Today we're going to learn how to store information via a document-based database. Traditional relational databases are complicated, rigid, and can be very taxing to alter. **When dealing with less complex associations, non relational databases can be more effective**.  Mongo provides a more flexible, scalable solution for less complex domain models.
+Today we're going to learn how to store information via a document-based database. Traditional relational databases are complicated, rigid, and can be very taxing to alter. **When dealing with less complex associations, non relational databases can be more effective**. Mongo provides a more flexible, scalable solution for less complex domain models.
 
 MongoDB (from hu**mongo**us) is an open-source [No SQL](https://www.mongodb.com/nosql-explained) **document database** that provides: high performance, high availability, and automatic scaling. In a nutshell, you should use Mongo if you are working with a flexible data model, that involves similar, but different objects.
 
@@ -42,12 +42,12 @@ MongoDB’s replication facility, called replica sets, provide:
 
 #### Automatic Scaling
 
-- Automatic sharding distributes data across a cluster of machines.
+- Automatic sharing distributes data across a cluster of machines.
 - Replica sets can provide eventually-consistent reads for low-latency high
 throughput deployments.
 
 
-## [Document Database](https://docs.mongodb.com/manual/introduction/)?
+## [Document Database](https://docs.mongodb.com/manual/introduction/)? (15 minutes / 0:25)
 
 ### A basic example of a `Person` document:
 
@@ -113,13 +113,13 @@ MongoDB stores documents in collections.
 - documents stored in a collection must have a unique `_id` field that acts
 as a primary key.
 
-###  MongoDB & NoSQL in a Nutshell
+###  MongoDB in a Nutshell
 
 ![mongo-sql-compared](images/mongodb.png)
 
 Great, now that we have a high level understanding of what Mongo is and what purpose it serves, let's look at how to use it!
 
-## Installation
+## Installation (5 minutes / 0:30)
 
 ### Don't Do This Unless You Don't Already Have MongoDB installed
 
@@ -187,7 +187,7 @@ You should see:
 $ brew info mongo
 ```
 
-## Mongo shell
+## Mongo shell  (5 minutes / 0:30)
 
 
 

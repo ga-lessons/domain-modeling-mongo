@@ -34,7 +34,7 @@ won't be lost (unless the server catches on fire).
 
 ### Relational Databases
 
-- Data is stored in tables.
+- Data is stored in tables, similar to Excel spreadsheets
 - Communicate via SQL (Structured Query Language)
 - Can relate data between tables
 
@@ -42,7 +42,7 @@ won't be lost (unless the server catches on fire).
 
 - Data is stored in key-value pairs, wide columns, graphs, or documents
 - Flexible and easy to scale
-- Very useful when we store inconsistent data
+- Very useful when we are storing inconsistent data
 
 ### Terminology (5 minutes / 0:20)
 

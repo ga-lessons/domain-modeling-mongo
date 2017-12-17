@@ -50,16 +50,10 @@ What are some of your observations?
 
 **One-to-one:** A Country has one Capital City
 
-- Usually denotes that one entity should be an attribute of the other
-- Usually separated for physical space considerations
-
 **One-to-many:** A GA Location has many Cohorts
 
-- The most common relationship you will define in WDI.
+**Many-to-many:** Each doctor has many patients, and each patient has many doctors.
 
-**Many-to-many:** A Membership has many Assignments through Submissions, and an Assignment has many Memberships through Submissions.
-
-- Requires a join table. In this example, that is Submissions.
 
 #### ERD Symbols Guide
 
