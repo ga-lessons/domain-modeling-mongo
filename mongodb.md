@@ -115,7 +115,7 @@ as a primary key.
 
 ###  MongoDB in a Nutshell
 
-![mongo-sql-compared](images/mongodb.png)
+![mongo-sql-compared](images/mongodb.PNG)
 
 Great, now that we have a high level understanding of what Mongo is and what purpose it serves, let's look at how to use it!
 
