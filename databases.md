@@ -51,7 +51,7 @@ While this is a bit technical, it's worth clarifying some terminology...
 * **Database**: The actual set of data being stored. We may create multiple databases on our computer, usually one for each application.
 * **Database Management System**: The software that lets a user interact (query) the data in a database. Examples are PostgreSQL, MySQL, MongoDB, etc.
 * **Database Language**: The language used to interact with a database. With MongoDB databases, that is JavaScript.
-* **Database CLI**: A tool offered by most DBMSs that allows us to query the database from the command line. For PostgreSQL, we'll use `mongo`.
+* **Database CLI**: A tool offered by most DBMSs that allows us to query the database from the command line. For MongoDB, we'll use `mongo`.
 * **Schema**: A blueprint of how your data is organized and how your database is structured. It introduces consistency to our data.
 
 ## Break (10 minutes / 0:30)
